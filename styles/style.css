@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.block{
+    width: 600px;
+    height: 500px;
+    background-color: aqua;
+    /* overflow: visible; */
+overflow: scroll;
+margin: 50px auto;
+}
